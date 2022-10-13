@@ -5,6 +5,7 @@ date: December 2, 2022
 header-image: assets/images/pytorch_conference–dec_2nd_2022.gif
 ---
 
+
 [Content Submission Form](https://docs.google.com/forms/d/121ptOuhqhmcPev9g5Zt2Ffl-NtB_oeyFk5CWjumUVLQ/edit) — Complete by Sept. 30th
 
 We are excited to announce that the PyTorch Conference returns in-person as a satellite event to [NeurlPS](https://nips.cc/) (<font size="3">Neural Information Processing Systems</font>) in New Orleans on Dec. 2nd. This is an opportunity to be part of the biggest PyTorch event of the year!
